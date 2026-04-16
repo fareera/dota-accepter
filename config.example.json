@@ -1,0 +1,11 @@
+{
+  "scan_interval": 0.5,
+  "match_threshold": 0.8,
+  "cooldown_seconds": 30,
+  "wechat": {
+    "app_id": "YOUR_APP_ID",
+    "app_secret": "YOUR_APP_SECRET",
+    "template_id": "YOUR_TEMPLATE_ID",
+    "user_openid": "YOUR_OPENID"
+  }
+}
